@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there I'm zahra 👋
 
-<!--
-**zehish/zehish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ my bio ✨ 
+I'm a back-end developer with experience in web development. I'm passionate about cutting-edge technology and enjoy working on anything related to crypto and NFTs. I'm always looking for opportunities to collaborate and learn new things.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Skills
+Here are some of the skills and technologies I'm proficient in:
+
+    Programming languages: python ,
+    Web development: Django rest framework , flask
+    Databases: mongodb , postgresql , mysql
+   
+🤔 What else?
+    💼 I'm currently working at Artina 
+    🌍 I'm fluent in english , persian and i understand arabic
+    🎓 I hold a BCS
+
+📫 How to reach me:
+    my Email : zehi.sh@gmail.com
+
